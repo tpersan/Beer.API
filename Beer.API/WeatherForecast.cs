@@ -1,6 +1,6 @@
 using System;
 
-namespace Beer.API
+namespace Bebidas.API
 {
     public class WeatherForecast
     {
